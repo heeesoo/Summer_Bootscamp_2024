@@ -1,6 +1,5 @@
 Summer Bootscamp 2024 - Verilog HDL 
-
-※ Mentee
+--- 
 
 ■ 3학년
 
@@ -12,3 +11,5 @@ Summer Bootscamp 2024 - Verilog HDL
 
 
 ■ 2학년
+
+• 신주민 : 
