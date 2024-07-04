@@ -12,4 +12,4 @@ Summer Bootscamp 2024 - Verilog HDL
 
 ■ 2학년
 
-• 신주민 : 
+• 신주민 : https://github.com/jumin11
