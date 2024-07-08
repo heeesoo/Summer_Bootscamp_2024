@@ -9,6 +9,9 @@ Summer Bootscamp 2024 - Verilog HDL
 
 • 최성민 : https://github.com/sungminic
 
+• 임준호 : 
+
+• 이지은 : 
 
 ■ 2학년
 
