@@ -1,18 +1,11 @@
 Summer Bootscamp 2024 - Verilog HDL 
 --- 
 
-■ 3학년
+■ Mentee
 
 • 유준모 : https://github.com/smupepe
 
-• 이희준 : https://github.com/hiijuxn
-
-• 최성민 : https://github.com/sungminic
-
-• 임준호 : 
-
-• 이지은 : 
-
-■ 2학년
-
-• 신주민 : https://github.com/jumin11
+---
+■ Curriculum
+** Please see the attached file.
+File name : "Intel_ModelSim_Install_Guide.docx", "Verilog_2024_Toy_Project.pptx"
