@@ -10,4 +10,4 @@ Summer Bootscamp 2024 - Verilog HDL
 
 * Please see the attached file.
 
-* File name : "Intel_ModelSim_Install_Guide.docx", "Verilog_2024_Toy_Project.pptx"
+* File name : "Verilog_2024_Toy_Project.pptx"
