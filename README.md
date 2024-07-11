@@ -6,8 +6,6 @@ Summer Bootscamp 2024 - Verilog HDL
 * 유준모 : https://github.com/smupepe
 
 ---
-■ Curriculum
+■ Reference
 
-* Please see the attached file.
-
-* File name : "Verilog_2024_Toy_Project.pptx"
+* Verilog_2024_Toy_Project.pptx
