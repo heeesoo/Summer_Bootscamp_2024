@@ -1,0 +1,178 @@
+$date
+	Wed Jul 10 22:34:43 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	100ps
+$end
+$scope module tb_adder $end
+$var wire 4 ! sum [3:0] $end
+$var wire 1 " cout $end
+$var reg 4 # a [3:0] $end
+$var reg 4 $ b [3:0] $end
+$var reg 1 % cin $end
+$scope module u_cla_4bit $end
+$var wire 4 & a [3:0] $end
+$var wire 4 ' b [3:0] $end
+$var wire 1 % cin $end
+$var wire 4 ( sum [3:0] $end
+$var wire 4 ) p [3:0] $end
+$var wire 4 * g [3:0] $end
+$var wire 4 + cout_w [3:0] $end
+$var wire 1 " cout $end
+$scope module u_pfa_0 $end
+$var wire 1 , a $end
+$var wire 1 - b $end
+$var wire 1 % c $end
+$var wire 1 . g $end
+$var wire 1 / p $end
+$var wire 1 0 s $end
+$upscope $end
+$scope module u_pfa_1 $end
+$var wire 1 1 a $end
+$var wire 1 2 b $end
+$var wire 1 3 c $end
+$var wire 1 4 g $end
+$var wire 1 5 p $end
+$var wire 1 6 s $end
+$upscope $end
+$scope module u_pfa_2 $end
+$var wire 1 7 a $end
+$var wire 1 8 b $end
+$var wire 1 9 c $end
+$var wire 1 : g $end
+$var wire 1 ; p $end
+$var wire 1 < s $end
+$upscope $end
+$scope module u_pfa_3 $end
+$var wire 1 = a $end
+$var wire 1 > b $end
+$var wire 1 ? c $end
+$var wire 1 @ g $end
+$var wire 1 A p $end
+$var wire 1 B s $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0B
+0A
+0@
+0?
+0>
+0=
+0<
+0;
+0:
+09
+08
+07
+06
+05
+04
+03
+02
+01
+00
+0/
+0.
+0-
+0,
+b0 +
+b0 *
+b0 )
+b0 (
+b0 '
+b0 &
+0%
+b0 $
+b0 #
+0"
+b0 !
+$end
+#100
+1"
+1?
+b1100 +
+16
+0B
+b11 !
+b11 (
+10
+15
+1A
+b1011 )
+1/
+b100 *
+1:
+12
+18
+1>
+1,
+17
+b1110 $
+b1110 '
+b101 #
+b101 &
+#200
+0"
+1<
+19
+13
+1B
+16
+b111 +
+0A
+b1 )
+05
+b110 *
+14
+b1110 !
+b1110 (
+00
+1-
+0>
+0,
+11
+1%
+b111 $
+b111 '
+b110 #
+b110 &
+#300
+03
+0B
+09
+0?
+1"
+b1000 +
+10
+16
+b111 !
+b111 (
+1<
+0/
+15
+04
+b110 )
+1;
+0:
+b1000 *
+1@
+0-
+02
+1>
+07
+1=
+b1100 $
+b1100 '
+b1010 #
+b1010 &
+#400
