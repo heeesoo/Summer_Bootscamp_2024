@@ -1,0 +1,47 @@
+$date
+	Mon Jul 15 17:28:51 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	100ps
+$end
+$scope module tb_subtractor $end
+$var wire 16 ! sub [15:0] $end
+$var reg 16 " a [15:0] $end
+$var reg 16 # b [15:0] $end
+$scope module u_sub_16bit $end
+$var wire 16 $ a [15:0] $end
+$var wire 16 % b [15:0] $end
+$var wire 16 & sub [15:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 &
+b0 %
+b0 $
+b0 #
+b0 "
+b0 !
+$end
+#100
+b101010000 #
+b101010000 %
+b111111111010000 !
+b111111111010000 &
+b1000000100100000 "
+b1000000100100000 $
+#200
+b1000000001 #
+b1000000001 %
+b1100101111 !
+b1100101111 &
+b10100110000 "
+b10100110000 $
+#300
