@@ -1,0 +1,125 @@
+$date
+	Mon Jul 15 18:26:47 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	100ps
+$end
+$scope module tb_subtractor $end
+$var wire 4 ! sub [3:0] $end
+$var wire 1 " borrow $end
+$var reg 4 # a [3:0] $end
+$var reg 4 $ b [3:0] $end
+$scope module u_sub_4bit $end
+$var wire 4 % a [3:0] $end
+$var wire 4 & b [3:0] $end
+$var wire 4 ' d [3:0] $end
+$var wire 4 ( borrow_w [3:0] $end
+$var wire 1 " borrow $end
+$scope module u_full_sub_1 $end
+$var wire 1 ) a $end
+$var wire 1 * b $end
+$var wire 1 + bin $end
+$var wire 1 , bout $end
+$var wire 1 - d $end
+$upscope $end
+$scope module u_full_sub_2 $end
+$var wire 1 . a $end
+$var wire 1 / b $end
+$var wire 1 0 bin $end
+$var wire 1 1 bout $end
+$var wire 1 2 d $end
+$upscope $end
+$scope module u_full_sub_3 $end
+$var wire 1 3 a $end
+$var wire 1 4 b $end
+$var wire 1 5 bin $end
+$var wire 1 " bout $end
+$var wire 1 6 d $end
+$upscope $end
+$scope module u_half_sub $end
+$var wire 1 7 a $end
+$var wire 1 8 b $end
+$var wire 1 9 borrow $end
+$var wire 1 : d $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0:
+09
+08
+07
+06
+05
+04
+03
+02
+01
+00
+0/
+0.
+0-
+0,
+0+
+0*
+0)
+bz000 (
+b0 '
+b0 &
+b0 %
+b0 $
+b0 #
+0"
+b0 !
+$end
+#100
+15
+11
+1+
+12
+0-
+06
+b101 !
+b101 '
+1:
+bz101 (
+19
+18
+1/
+1)
+13
+b101 $
+b101 &
+b1010 #
+b1010 %
+#200
+06
+15
+1-
+10
+11
+0+
+1,
+b111 !
+b111 '
+12
+bz110 (
+09
+08
+1*
+0/
+17
+0)
+b10 $
+b10 &
+b1001 #
+b1001 %
+#300
